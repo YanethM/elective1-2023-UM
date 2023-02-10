@@ -1,0 +1,27 @@
+.container{
+    margin: 30px;
+}
+
+h1 {
+    display: block;
+    font-size: 5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    display: flex;
+    font-size: 3em;
+    justify-content: center;
+    align-items: center;
+}
+
+#form-register{
+    display: grid;
+    place-content: center;
+}
+
+input{
+    padding: 10px;
+    margin-top: 10px;
+}
